@@ -4690,3 +4690,12 @@ input, select, textarea {
 h1 {
 	color: #990F02;
 }
+
+
+#roudCorners {
+	border-radius: 25px;
+	padding: 5px;
+	width: 100%;
+	height: auto;
+	background-color: #D5B79F;
+}
